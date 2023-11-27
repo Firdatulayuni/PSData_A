@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-import scipy.stats
+import scipy
 import librosa
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
