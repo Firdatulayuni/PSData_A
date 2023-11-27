@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np
-from scipy import scipy.stats
+from scipy import stats
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
