@@ -1,8 +1,6 @@
 streamlit 
 numpy 
 pandas 
-scipy 
-librosa 
 scikit-learn 
 matplotlib 
 imbalanced-learn 
